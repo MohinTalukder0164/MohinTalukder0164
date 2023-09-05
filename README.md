@@ -1,3 +1,4 @@
+![logo](https://github.com/MohinTalukder0164/MohinTalukder0164/blob/main/Mohin-5%20.jpg)
 <h1 align="center">Hi 👋, I'm Mohin Talukder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh. I work in Corporate IT Sector and in my free time i make YouTube videos at https://www.youtube.com/@techsquats24</h3>
 
